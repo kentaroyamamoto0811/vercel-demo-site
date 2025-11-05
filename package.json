@@ -1,0 +1,10 @@
+{
+  "name": "vercel-demo-site",
+  "version": "1.0.0",
+  "description": "Vercelデプロイのデモサイト",
+  "scripts": {
+    "dev": "python -m http.server 3000",
+    "start": "python -m http.server 8080"
+  }
+}
+
